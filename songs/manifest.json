@@ -1,0 +1,22 @@
+{
+  "cs": {
+    "title": "CS Songs",
+    "description": "Songs for you",
+    "cover": "songs/cs/cover.jpg",
+    "folder": "songs/cs",
+    "songs": [
+      "Thodi Si Daaru - AP Dhillon.mp3",
+      "Title Track Saiyaara.mp3"
+    ]
+  },
+  "ncs": {
+    "title": "NCS Songs",
+    "description": "Songs for you",
+    "cover": "songs/ncs/cover.jpg",
+    "folder": "songs/ncs",
+    "songs": [
+      "Mf Gabhru - Karan Aujla.mp3",
+      "Pardesiya.mp3"
+    ]
+  }
+}

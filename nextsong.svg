@@ -1,0 +1,7 @@
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Next Song Button">
+  <circle cx="30" cy="30" r="30" fill="#1DB954" />
+  <g fill="#FFFFFF">
+    <polygon points="24,18 36,30 24,42" />
+    <rect x="36" y="18" width="4" height="24" rx="1" />
+  </g>
+</svg>

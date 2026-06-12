@@ -1,0 +1,11 @@
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Previous Song Button">
+  <!-- Spotify green circle -->
+  <circle cx="30" cy="30" r="30" fill="#1DB954" />
+  <!-- Previous track icon -->
+  <g fill="#FFFFFF">
+    <!-- Vertical bar (like pause) -->
+    <rect x="20" y="18" width="4" height="24" rx="1" />
+    <!-- Triangle pointing left -->
+    <polygon points="36,18 24,30 36,42" />
+  </g>
+</svg>

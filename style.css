@@ -60,6 +60,7 @@ body {
 
 .library-tools {
     padding: 12px;
+        margin-top: 8px;
 }
 
 .library-tools input {
@@ -77,10 +78,10 @@ body {
 }
 
 .library-status {
-    min-height: 18px;
+        min-height: 9px;
     color: #b3b3b3;
     font-size: 12px;
-    padding-top: 8px;
+  
 }
 
 .header {

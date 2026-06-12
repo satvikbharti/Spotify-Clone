@@ -2,6 +2,8 @@
   "cs": {
     "title": "CS Songs",
     "description": "Songs for you",
+    "artist": "Various Artists",
+    "year": "",
     "cover": "songs/cs/cover.jpg",
     "folder": "songs/cs",
     "songs": [
@@ -12,6 +14,8 @@
   "ncs": {
     "title": "NCS Songs",
     "description": "Songs for you",
+    "artist": "Various Artists",
+    "year": "",
     "cover": "songs/ncs/cover.jpg",
     "folder": "songs/ncs",
     "songs": [

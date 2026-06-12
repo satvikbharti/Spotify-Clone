@@ -34,6 +34,8 @@ function getAlbums() {
     albums[folder] = {
       title: info.title || folder,
       description: info.Description || info.description || "",
+      artist: info.artist || "Various Artists",
+      year: info.year || "",
       cover: `songs/${folder}/cover.jpg`,
       folder: `songs/${folder}`,
       songs
